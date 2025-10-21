@@ -1,1 +1,1 @@
-# MindXDocument
+# TeachingDocument
